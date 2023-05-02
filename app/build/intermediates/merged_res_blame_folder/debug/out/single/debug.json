@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\layout_fragment_friend_chat.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\layout\\fragment_friend_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\drawable_cat2.jpg.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\drawable\\cat2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\navigation_navigation.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\navigation\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\layout_fragment_friends.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "com.example.recycleviewtest.app-merged_res-53:/layout_frienditem.xml.flat",
+        "source": "com.example.recycleviewtest.app-main-55:/layout/frienditem.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\drawable_cat1.jpg.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\drawable\\cat1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\layout_frienditem.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\layout\\frienditem.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\drawable_cat3.jpg.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\drawable\\cat3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-merged_res-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\drawable\\ic_launcher_background.xml"
+    }
+]

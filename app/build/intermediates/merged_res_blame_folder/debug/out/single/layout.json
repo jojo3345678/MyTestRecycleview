@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-mergeDebugResources-52:\\layout\\frienditem.xml",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\layout\\frienditem.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-mergeDebugResources-52:\\layout\\fragment_friend_chat.xml",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\layout\\fragment_friend_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-mergeDebugResources-52:\\layout\\fragment_friends.xml",
+        "source": "C:\\Users\\jojo\\.gradle\\daemon\\7.5\\com.example.recycleviewtest.app-main-55:\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "com.example.recycleviewtest.app-mergeDebugResources-52:/layout/frienditem.xml",
+        "source": "com.example.recycleviewtest.app-main-55:/layout/frienditem.xml"
+    }
+]
